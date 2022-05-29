@@ -1,0 +1,6 @@
+ipython[notebook]
+numpy
+pandas
+matplotlib
+seaborn
+warnings
