@@ -1,3 +1,3 @@
 # Movie-Recommendation
 
-Movie Recommendation project using the data from MovieLens 100K movie ratings.
+Movie Recommendation project using the data of MovieLens 100K movie ratings.
